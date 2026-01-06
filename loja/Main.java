@@ -7,8 +7,6 @@ import loja.Produto;
 import sistPagamento.SistemaPag;
 
 public class Main {
-    
-
     public static void main(String[] args) {
         // não liga se os hífes estão desalinhados
         String nomeLoja = JOptionPane.showInputDialog("""

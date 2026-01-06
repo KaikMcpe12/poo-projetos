@@ -318,10 +318,10 @@ public class AgenciaBancaria {
 
     // TODO: método entrar() será a execução das regras iniciais (menu de gerente, pessoa e sair)
     // TODO: criar o método criarConta(), 
+    // TODO: quando transferir pedir a senha
     public static void main(String[] args) {
         contasbancarias = new ArrayList<ContaBancaria>();
 
         entrar();
     }
 }
-
